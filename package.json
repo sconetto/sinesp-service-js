@@ -1,0 +1,27 @@
+{
+  "name": "sinesp-service",
+  "version": "0.0.0",
+  "description": "Microservice to verify car plates onto sinesp db",
+  "main": "sinesp.js",
+  "dependencies": {
+    "sinesp-api": "^1.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sconetto/sinesp-service-js.git"
+  },
+  "keywords": [
+    "sinesp;",
+    "car"
+  ],
+  "author": "João Pedro Sconetto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sconetto/sinesp-service-js/issues"
+  },
+  "homepage": "https://github.com/sconetto/sinesp-service-js#readme"
+}
