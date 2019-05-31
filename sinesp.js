@@ -8,7 +8,10 @@ async function start() {
         androidVersion: '8.1.0',
         timeout: 0,
         maximumRetry: 3, 
-        proxy: {}
+        proxy: {
+            host: '45.164.167.113',
+            port: 8080
+        }
     });
     let vehicle = await sinesp.search('AAA1111');
     console.log(vehicle);

@@ -4,7 +4,7 @@
   "description": "Microservice to verify car plates onto sinesp db",
   "main": "sinesp.js",
   "dependencies": {
-    "sinesp-api": "^1.2.10"
+    "sinesp-api": "^1.4.0"
   },
   "devDependencies": {},
   "scripts": {
